@@ -20,7 +20,7 @@
 
 ###3. Eclipse -> Import Existing Maven Project -> Select the Folder -> This would select the pom.xml -> Finish
 
-###4. Go to src\test\java\weather\Sydneyweather.java -> Run as Junit 
+###4. Go to src\test\java\openweather\sydney\Sydneyweather.java -> Run as Junit 
 
 
 ## Test Results:
